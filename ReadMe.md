@@ -16,9 +16,11 @@ IP：**wr.f5.si**または**wr.pnkt.f5.si**
 現状は一アカウント一つまでです
 消すときは私に言ってください
 /move spawn 初期ワールドに飛びます
-/move myworld /createまたは/create-flatで作ったやつに飛びます```
+/move myworld /createまたは/create-flatで作ったやつに飛びます
+```
 
-```クリエイティブモードに変更：/c /creative(初期ワールド,自分のワールドの際は無条件. 他人のワールドの場合その人のが承認しないとだめ) 
+```
+クリエイティブモードに変更：/c /creative(初期ワールド,自分のワールドの際は無条件. 他人のワールドの場合その人のが承認しないとだめ) 
 承認は /creative-accept
 アドベ二変更：/adventure /adv
 ```
